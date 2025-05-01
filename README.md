@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Redho+Septa+Yudien!;" />
 </h1>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+<!-- <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif"> -->
 <br/>
 
 - 📫 How to reach me **yudiensepta@gmail.com**
@@ -34,7 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redhosy&show_icons=true&locale=en&theme=tokyonight" alt="redhosy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redhosy&&theme=tokyonight" alt="redhosy" /></p>
 
 </div>
 
