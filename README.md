@@ -24,8 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,nextjs,figma,tailwind,fastapi" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresSQL,postman,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,nextjs,figma,tailwind,fastapi" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,github,vscode" /><br>
 </div>
 
 
