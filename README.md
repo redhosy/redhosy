@@ -33,8 +33,6 @@
 <br>
 <div align=center>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redhosy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="redhosy" /></p>
-
 </div>
 
 <br/>
