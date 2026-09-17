@@ -1,38 +1,113 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=redhosy.redhosy" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Redho+Septa+Yudien!;" />
-</h1>
-<h1 align="center">
-   <img align="center" alt="coding" width="" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif"> 
-</h1>
-
-<br/>
-
-- 📫 How to reach me **yudiensepta@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/redhoseptayudien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/redhoseptayudien/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rdoksone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rdoksone/" height="30" width="40" /></a>
-</p>
-
-
-<br/>
-<br/>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,nextjs,figma,tailwind,fastapi" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,github,vscode" /><br>
-</div>
 
+<table>
+<tr>
+<td width="620" align="left" valign="top">
 
-<h2 align="center">⚡ Stats ⚡</h2>
+### Redho Septa Yudien
+
+Building things with Python, Dart, and TypeScript.
+
 <br>
-<div align=center>
+
+<a href="https://linkedin.com/in/redhoseptayudien/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.instagram.com/rdoksone/">Instagram</a> &nbsp;·&nbsp;
+<a href="mailto:yudiensepta@gmail.com">Email</a>
+
+<br>
+
+</td>
+<td width="260" align="center" valign="middle">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=redhosy.redhosy&label=visitors&color=6a737d&style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="440" align="center" valign="middle">
+
+**Languages**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java&theme=light" />
+
+<br><br>
+
+</td>
+<td width="440" align="center" valign="middle">
+
+**Frameworks & Tools**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,fastapi,figma,postman&theme=light" />
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle">
+
+<br>
+
+*"Pain and suffering are always inevitable for a large intelligence and a deep heart."*
+
+Fyodor Dostoevsky
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td width="440" align="center" valign="middle">
+
+**Databases**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
+
+<br><br>
+
+</td>
+<td width="440" align="center" valign="middle">
+
+**Workflow**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=light" />
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="480" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=redhosy&show_icons=true&hide_border=true&hide_title=true&icon_color=24292f&title_color=24292f&text_color=57606a&bg_color=00000000" />
+
+</td>
+<td width="400" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhosy&layout=compact&hide_border=true&hide_title=true&text_color=57606a&bg_color=00000000" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
-
-<br/>
